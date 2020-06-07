@@ -9,6 +9,38 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title></title>
+      <link>/events/</link>
+      <pubDate>Sun, 07 Jun 2020 15:36:00 +0530</pubDate>
+      
+      <guid>/events/</guid>
+      <description>List of activities and upcoming events will go here</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 07 Jun 2020 15:36:00 +0530</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Sun, 07 Jun 2020 15:36:00 +0530</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Risk Analyst: Halimeshi Kuyeko
+Company: Azania Bank Limited,
+Street: Sam Nujoma Avenue,Mawasiliano Towers,
+Address: P.0 Box 32089,
+City: Dar es Salaam, Tanzania.
+Email: Email</description>
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>/post/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
@@ -19,45 +51,12 @@
     
     <item>
       <title></title>
-      <link>/events/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
-      
-      <guid>/events/</guid>
-      <description>List of activities and upcoming events will go here</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/team/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
       <guid>/team/</guid>
       <description>The resarch group is led by Prof Ntahondi Nyandwi. Other researchers in the team include:
  Dr. Yohana Shaghude Dr. Magareth Kyewalyanga Mr. Masumbuko Semba  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
-      
-      <guid>/about/</guid>
-      <description>UN Environment agrees to co-operate with IMS with respect to the project entitled “The Western Indian Ocean Large Marine Ecosystems Strategic Action Programme Policy Harmonisation and Institutional Reforms (WIO LME SAPPHIRE)”. The SAPPHIRE project is implemented by UNDP and executed by the Nairobi Convention Secretariat with the funding from the Global Environmental Facility (GEF).
-The project aims to support and assist the appropriate and formally mandated government institutions and intergovernmental bodies in the region to implement related activities in order to deliver the SAP and to ensure sustainability of efforts and actions toward long-term management of WIO LMEs as well as the sustainability of associated institutional arrangements and partnerships.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>Principal Researcher: Prof Ntahondi Nyandwi
-Institute: Institute of Marine Sciences,
-Street: Mizingani Road,
-Address: P.0 Box 668,
-City: Zanzibar, Tanzania.
-Email: Email</description>
     </item>
     
   </channel>
