@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finance on </title>
+    <link>/categories/finance/</link>
+    <description>Recent content in Finance on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/finance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data science in financial sector</title>
+      <link>/post/data-science-in-financial-sector/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-science-in-financial-sector/</guid>
+      <description>The finance sector in Tanza is hampered by the COVID-19……In the Northeast monsoon season of 2020 the field component of an experiment designed to observe oceanographic parameters began in the Pemba Channel. This campaign was done by team from the Institute of Marine Sciences of the University of Dar es Salaam through the support of SAPPHIRE project.
+The field data collection aimed to collect physical and biological data that can later be combined with meteorological and other oceanographic observations acquired through satellite.</description>
+    </item>
+    
+  </channel>
+</rss>

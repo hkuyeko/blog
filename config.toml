@@ -1,6 +1,6 @@
 baseURL = "https://sapphire-tz.netlify.com/"
-title = "sapphire"
-subtitle = "We believe in Data for Marine and Coastal Science Management"
+title = ""
+subtitle = "We believe in Data for Decision in Finance"
 languageCode = "en-us"
 # preservetaxonomynames = true
 theme = "hugo-travelify-theme"
@@ -12,11 +12,11 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     # Tell me who you are
-    author = "Masumbuko Semba"
-    site_description = "Data First for Coastal and Marine Management"
+    author = "Halimeshi Fabian Kuyeko"
+    site_description = "Data for Informed Finance Decisions"
     copyright  = "Copyright"
 #    avatar = "avatar.png"
-    logo = "sapphire_logo.png"
+    logo = "kuyeko_logo.png"
     title_in_logo = true # set to true if you want the title along with the logo
     disable_mathjax = true # set to true to disable MathJax
 

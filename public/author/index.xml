@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Author on sapphire</title>
+    <title>Author on </title>
     <link>/author/</link>
-    <description>Recent content in Author on sapphire</description>
+    <description>Recent content in Author on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2020 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Masumbuko Semba</title>
-      <link>/author/masumbuko-semba/</link>
-      <pubDate>Sun, 08 Mar 2020 13:50:46 +0200</pubDate>
+      <title>Fabian Kuyeko</title>
+      <link>/author/fabian-kuyeko/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/author/masumbuko-semba/</guid>
+      <guid>/author/fabian-kuyeko/</guid>
       <description></description>
     </item>
     
